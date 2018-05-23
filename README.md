@@ -1,4 +1,7 @@
 # test1
 ## for python learning  
   
-  1. 
+  1.   
+  ![ti]  
+  
+  
